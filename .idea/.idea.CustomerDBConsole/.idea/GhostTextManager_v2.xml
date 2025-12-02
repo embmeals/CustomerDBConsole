@@ -27,6 +27,42 @@
             </GhostTextMetaData>
           </value>
         </entry>
+        <entry key="ember@&lt;file_name&gt;&#10;$ git branch -M main&#10;&#10;ember@&lt;file_name&gt;&#10;$ git remote add origin https://github.com/yourname/CustomerDBConsole.git&#10;&#10;ember@&lt;file_name&gt;&#10;$ git remote add origin https://github.com/embmeals/CustomerDBConsole.git&#10;error: remote origin already exists.&#10;&#10;ember@&lt;file_name&gt;&#10;$ &#10;&#10;&#10;I forgot to my put my name there...">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1764640421407" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="ember@&lt;file_name&gt;&#10;$ git remote -v&#10;origin  https://github.com/yourname/CustomerDBConsole.git (fetch)&#10;origin  https://github.com/yourname/CustomerDBConsole.git (push)&#10;&#10;ember@&lt;file_name&gt;&#10;$ git remote set-url origin https://github.com/embmeals/CustomerDBConsole.git&#10;&#10;ember@&lt;file_name&gt;&#10;$ git push -u origin main&#10;remote: Repository not found.&#10;fatal: repository 'https://github.com/embmeals/CustomerDBConsole.git/' not found&#10;&#10;ember@&lt;file_name&gt;&#10;$">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1764640474006" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="how do I create a new repo for this in my github">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1764640342422" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
         <entry key="okay I connected to the DB in jetbrains">
           <value>
             <GhostTextMetaData>
